@@ -1,0 +1,15 @@
+C:\GitHubRep\FutureTools\FutureTools\bin\Debug\FutureTools.exe.config
+C:\GitHubRep\FutureTools\FutureTools\bin\Debug\FutureTools.exe
+C:\GitHubRep\FutureTools\FutureTools\bin\Debug\FutureTools.pdb
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\FutureTools.csprojAssemblyReference.cache
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\MainWindow.g.cs
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\App.g.cs
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\FutureTools_MarkupCompile.cache
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\FutureTools_MarkupCompile.lref
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\MainWindow.baml
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\FutureTools.g.resources
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\FutureTools.Properties.Resources.resources
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\FutureTools.csproj.GenerateResource.cache
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\FutureTools.csproj.CoreCompileInputs.cache
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\FutureTools.exe
+C:\GitHubRep\FutureTools\FutureTools\obj\Debug\FutureTools.pdb
