@@ -1,0 +1,23 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:tb="http://www.hardcodet.net/taskbar"
+                    xmlns:local="clr-namespace:FutureTools">
+
+    <ContextMenu x:Shared="false" x:Key="SysTrayMenu">
+        <MenuItem Header="显示窗口" Command="{Binding ShowWindowCommand}" />
+        <MenuItem Header="隐藏窗口" Command="{Binding HideWindowCommand}" />
+        <Separator />
+        <MenuItem Header="退出" Command="{Binding ExitApplicationCommand}" />
+    </ContextMenu>
+
+    <tb:TaskbarIcon x:Key="NotifyIcon"
+                    IconSource="Icons/sparetools.ico"
+                    ToolTipText="双击弹出窗口,右击弹出菜单"
+                    DoubleClickCommand="{Binding ShowWindowCommand}"
+                    ContextMenu="{StaticResource SysTrayMenu}">
+        <tb:TaskbarIcon.DataContext>
+            <local:NotifyIconViewModel />
+        </tb:TaskbarIcon.DataContext>
+    </tb:TaskbarIcon>
+
+</ResourceDictionary>
