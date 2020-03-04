@@ -40,3 +40,6 @@ E:\GitHome\MyApp\FutureTools\obj\Debug\FutureTools.g.resources
 E:\GitHome\MyApp\FutureTools\obj\Debug\FutureTools.Properties.Resources.resources
 E:\GitHome\MyApp\FutureTools\obj\Debug\FutureTools.csproj.GenerateResource.cache
 E:\GitHome\MyApp\FutureTools\obj\Debug\FutureTools.csproj.CopyComplete
+E:\GitHome\MyApp\FutureTools\bin\Debug\log4net.dll
+E:\GitHome\MyApp\FutureTools\bin\Debug\log4net.xml
+E:\GitHome\MyApp\FutureTools\obj\Debug\FutureTools.csprojAssemblyReference.cache
